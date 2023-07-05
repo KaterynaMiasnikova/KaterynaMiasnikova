@@ -1,4 +1,4 @@
-# [Your Name]
+# Kateryna Miasnikova
 
 ## Software Engineer | Problem Solver | Lifelong Learner
 
@@ -36,7 +36,7 @@ Welcome to my GitHub profile! I'm a passionate and dedicated software engineer w
 
 I'm always excited to collaborate and discuss new opportunities. Feel free to reach out to me through the following channels:
 
-- Email: [kateryna.miasnikova@gmail.com]
-- LinkedIn: [https://www.linkedin.com/in/kateryna-miasnikova/]
+- Email: kateryna.miasnikova@gmail.com
+- LinkedIn: https://www.linkedin.com/in/kateryna-miasnikova/
 
 Let's connect and create amazing software together!
