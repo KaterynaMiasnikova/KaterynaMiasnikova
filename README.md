@@ -6,13 +6,14 @@ Welcome to my GitHub profile! I'm a passionate and dedicated software engineer w
 
 ### Skills and Expertise
 
-- Programming Languages: Python, Java, Kotlin
+- Programming Languages: Python, Java, Kotlin, C#
 - Web Development: HTML/CSS
 - Database: MySQL, Room, Hybernate
 - Version Control: Git, GitHub
 - Data Structures and Algorithms
 - Software Design and Architecture
 - Agile Development Methodologies
+- Game Development in Unity
 
 ### Projects
 
